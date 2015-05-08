@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, SMSSpamFilterActivity!</string>
+    <string name="app_name">SMS Spam Filter</string>
+    <string name="menu_blacklist">Blacklist mittenti</string>
+    <string name="menu_mittenti">Cerca SpamSender fra gli SMS</string>
+</resources>
